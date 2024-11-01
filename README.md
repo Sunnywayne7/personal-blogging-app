@@ -1,5 +1,5 @@
 # Welcome to My Personal Blogging App
-...Share Your Thoughts, Inspire Others
+...Where you can share Your Thoughts, Inspire Others
 
 A simple and secure backend blogging platform built with love.
 
